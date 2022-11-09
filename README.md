@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Pana</h1>
+<h1 align="center">Hola 👋, soy Carlos Pana</h1>
 <h3 align="center">Estudiante de Ingeniería Electrónica, adentrandome en este mundo tech como Full-Stack developer. Me interesa el desarrollo web, tanto el front-end como el back-end.</h3>
 
 
