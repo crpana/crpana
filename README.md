@@ -1,8 +1,9 @@
 ### Hi there 👋
-<div>
-  <h1>hoasdkljalskdjlaks</h1>
-</div>
 
+email: panacarlosramon@gmail.com
+###
+
+linkedin: https://www.linkedin.com/in/carlospana
 <!--
 **crpana/crpana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
